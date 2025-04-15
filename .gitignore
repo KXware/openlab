@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Source/SecsGemDemoApp1/obj/Debug
+/Source/SecsGemDemoApp1/.vs/SecsGemDemoApp1
