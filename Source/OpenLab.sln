@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.35806.103 d17.14
+VisualStudioVersion = 17.14.35806.103
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecsGemDemoApp1", "SecsGemDemoApp1.csproj", "{5ED1EA34-8B64-45DC-8CE0-35E424E1BD2B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecsGemDemoApp1", "SecsGemDemoApp1\SecsGemDemoApp1.csproj", "{5ED1EA34-8B64-45DC-8CE0-35E424E1BD2B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
